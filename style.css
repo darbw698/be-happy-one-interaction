@@ -17,10 +17,12 @@ p {
 }
 
 .firstdiv {
-  color: yellow;
+  color: red;
+  font-size: 5vw;
   
 }
 
 .seconddiv {
-  color:
+  color:darkmagenta;
+  font-size: 5vw;
 }

@@ -8,5 +8,5 @@ console. log ($(".firstdiv"))
 
 console. log ($(".seconddiv"))
 
-$ ('.firstdiv').show()
+$ ('.f')
 $ ('.seconddiv').hide()

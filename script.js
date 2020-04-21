@@ -1,12 +1,12 @@
-console. log ('happy happy happy happy')
+console. log ('hello world')
 
 // console. log ( $('.firstdiv'))
 
 // console. log ( $('.seconddiv'))
 
-console. log ($(".firstdiv"))
+console. log ($(".first-div"))
 
-console. log ($(".seconddiv"))
+console. log ($(".second-div"))
 
-$ ('.f')
-$ ('.seconddiv').hide()
+$ ('.first-div').show()
+$ ('.second-div').hide()

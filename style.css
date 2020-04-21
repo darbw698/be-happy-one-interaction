@@ -16,13 +16,19 @@ p {
   margin: 2em;
 }
 
-.firstdiv {
+div{
+  height:100px;
+  width:100px;
+  margin:10px;
+}
+
+.first-div {
   color: red;
   font-size: 5vw;
   
 }
 
-.seconddiv {
+.second-div {
   color:darkmagenta;
   font-size: 5vw;
 }

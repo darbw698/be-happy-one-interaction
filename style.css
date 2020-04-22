@@ -5,11 +5,6 @@ body {
   margin: 2em;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
-}
-
 
 p {
   font-size: 10.5vw;
@@ -22,7 +17,7 @@ p {
   margin:10px;
 } */
 
-/* .first-div {
+.first-div {
   color: red;
   font-size: 5vw;
   
@@ -49,7 +44,6 @@ p {
   ". . text9"
   "text10 . ."
   ". text11 ."
-  ". . text12"
-    
-    
+  ". . text12"  
 }
+

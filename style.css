@@ -17,7 +17,7 @@ p {
   margin:10px;
 } */
 
-.first-div {
+/* .first-div {
   color: red;
   font-size: 5vw;
   
@@ -27,6 +27,68 @@ p {
   color:darkmagenta;
   font-size: 5vw;
 } */
+
+.first-div {
+  color: red;
+  font-size: 5vw;
+  
+}
+
+.second-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.third-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.fourth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.fifth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.sixth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.seventh-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.eighth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.ninth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.tenth-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.eleventh-div {
+  color: red;
+  font-size: 5vw;
+}
+
+.twelfth-div {
+  color: red;
+  font-size: 5vw;
+}
+
 
 .layouttext {
   display: grid;

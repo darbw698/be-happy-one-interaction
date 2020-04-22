@@ -68,3 +68,9 @@ $(".twelfth-div").on('click',(eventData)=>{
   $(".twelfth-div").hide();
   $(".first2-div").show();
 })
+
+$(".first2-div").on('click',(eventData)=>{
+  $(".first2-div").hide();
+  $(".seventh-div").show();
+})
+

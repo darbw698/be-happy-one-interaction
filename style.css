@@ -22,7 +22,7 @@ p {
   margin:10px;
 } */
 
-.first-div {
+/* .first-div {
   color: red;
   font-size: 5vw;
   
@@ -31,4 +31,25 @@ p {
 .second-div {
   color:darkmagenta;
   font-size: 5vw;
+} */
+
+.layouttext {
+  display: grid;
+/*   grid-template-columns: 1fr 1fr 1fr; */
+  /*   grid-template-rows: 1fr 4fr 1fr; */
+  grid-template-areas:
+  "side-text1 . ."
+  ". main-text2 ."
+  ". . right-text3"
+  "text4 . ."
+  ". text5 ."
+  ". . text6"
+  "text7 . ."
+  ". text8 ."
+  ". . text9"
+  "text10 . ."
+  ". text11 ."
+  ". . text12"
+    
+    
 }

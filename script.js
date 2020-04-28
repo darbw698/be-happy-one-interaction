@@ -16,6 +16,8 @@ console.log($(".first-div"));
 
 console.log($(".second-div"));
 
+//.hide() === setting    display:none    in CSS
+
 
 $(".first-div").show();
 $(".second-div").hide();
@@ -34,7 +36,8 @@ $(".first2-div").hide();
 $(".second2-div").hide();
 $(".third2-div").hide();
 $(".fourth2-div").hide();
-$(".fifth2-div").hide();
+// $(".fifth2-div").hide();
+$(".fifth2-div").
 $(".sixth2-div").hide();
 $(".seventh2-div").hide();
 $(".eighth2-div").hide();
@@ -46,7 +49,7 @@ $(".twelfth2-div").hide();
 
 $('.first-div').on('click',(eventData)=>{
   $(".first-div").hide();
-  $(".fifth2-div").show();
+  // $(".fifth2-div").show();
 })
 
 $(".fifth2-div").on('click',(eventData)=>{

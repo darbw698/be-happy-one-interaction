@@ -170,3 +170,11 @@ p {
   ". . text12"  
 }
 
+
+
+
+.test-example{
+  
+  transition:all 3s;
+  transform: rotate(90deg);
+}

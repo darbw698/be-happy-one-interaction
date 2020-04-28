@@ -19,61 +19,66 @@ console.log($(".second-div"));
 //.hide() === setting    display:none    in CSS
 
 
-$(".first-div").show();
-$(".second-div").hide();
-$(".third-div").hide();
-$(".fourth-div").hide();
-$(".fifth-div").hide();
-$(".sixth-div").hide();
-$(".seventh-div").hide();
-$(".eighth-div").hide();
-$(".ninth-div").hide();
-$(".tenth-div").hide();
-$(".eleventh-div ").hide();
-$(".twelfth-div").hide();
+$(".first-div").css('opacity','1');
+// $(".second-div").hide();
 
-$(".first2-div").hide();
-$(".second2-div").hide();
-$(".third2-div").hide();
-$(".fourth2-div").hide();
-// $(".fifth2-div").hide();
-$(".fifth2-div").
-$(".sixth2-div").hide();
-$(".seventh2-div").hide();
-$(".eighth2-div").hide();
-$(".ninth2-div").hide();
-$(".tenth2-div").hide();
-$(".eleventh2-div ").hide();
-$(".twelfth2-div").hide();
+// opacity is between 0, and 1 (0.5 == 50% opacity)
+//https://developer.mozilla.org/en-US/docs/Web/CSS/opacity
+$(".second-div").css('opacity','0')
+
+$(".third-div").css('opacity','0');
+$(".fourth-div").css('opacity','0');
+$(".fifth-div").css('opacity','0');
+$(".sixth-div").css('opacity','0');
+$(".seventh-div").css('opacity','0');
+$(".eighth-div").css('opacity','0');
+$(".ninth-div").css('opacity','0');
+$(".tenth-div").css('opacity','0');
+$(".eleventh-div ").css('opacity','0');
+$(".twelfth-div").css('opacity','0');
+
+$(".first2-div").css('opacity','0');
+$(".second2-div").css('opacity','0');
+$(".third2-div").css('opacity','0');
+$(".fourth2-div").css('opacity','0');
+$(".fifth2-div").css('opacity','0');
+$(".sixth2-div").css('opacity','0');
+$(".seventh2-div").css('opacity','0');
+$(".eighth2-div").css('opacity','0');
+$(".ninth2-div").css('opacity','0');
+$(".tenth2-div").css('opacity','0');
+$(".eleventh2-div ").css('opacity','0');
+$(".twelfth2-div").css('opacity','0');
 
 
 $('.first-div').on('click',(eventData)=>{
-  $(".first-div").hide();
-  // $(".fifth2-div").show();
+  $(".first-div").css('opacity','0')
+  $(".fifth2-div").css('opacity','1').addClass('test-example');
+  
 })
 
 $(".fifth2-div").on('click',(eventData)=>{
-  $(".fifth2-div").hide();
-  $(".ninth-div").show();
+ $(".fifth2-div").css('opacity','0')
+  $(".ninth-div").css('opacity','1')
 })
 
 $(".ninth-div").on('click',(eventData)=>{
-  $(".ninth-div").hide();
-  $(".third2-div").show();
+   $(".ninth-div").css('opacity','0')
+  $(".third2-div").css('opacity','1');
 })
 
 $(".third2-div").on('click',(eventData)=>{
-  $(".third2-div").hide();
-  $(".twelfth-div").show();
+  $(".third2-div").css('opacity','0');
+ $(".twelfth-div").css('opacity','1')
 })
 
 $(".twelfth-div").on('click',(eventData)=>{
-  $(".twelfth-div").hide();
-  $(".first2-div").show();
+  $(".twelfth-div").css('opacity','0')
+  $(".first2-div").css('opacity','1')
 })
 
 $(".first2-div").on('click',(eventData)=>{
-  $(".first2-div").hide();
-  $(".seventh-div").show();
+  $(".first2-div").css('opacity','1')
+  $(".seventh-div").css('opacity','0')
 })
 

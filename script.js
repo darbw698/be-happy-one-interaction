@@ -49,9 +49,7 @@ $(".twelfth2-div").css("opacity", "0");
 
 $(".first-div").on("click", eventData => {
   $(".first-div").css("opacity", "0");
-  $(".fifth2-div")
-    .css("opacity", "1")
-    .addClass("test-example");
+  $(".fifth2-div").css("opacity", "1").addClass("test-example").css("12vw");
 });
 
 $(".fifth2-div").on("click", eventData => {
@@ -66,8 +64,7 @@ $(".ninth-div").on("click", eventData => {
 
 $(".third2-div").on("click", eventData => {
   $(".third2-div").css("opacity", "0");
-  $(".twelfth-div")
-    .css("opacity", "1")
+  $(".twelfth-div").css("opacity", "1")
     .addClass("test-example2");
 });
 
@@ -83,9 +80,7 @@ $(".first2-div").on("click", eventData => {
 
 $(".seventh-div").on("click", eventData => {
   $(".seventh-div").css("opacity", "0");
-  $(".eighth2-div")
-    .css("opacity", "1")
-    .addClass("test-example3");
+  $(".eighth2-div").css("opacity", "1").addClass("test-example3");
 });
 
 $(".eighth2-div").on("click", eventData => {
@@ -105,9 +100,7 @@ $(".eleventh2-div").on("click", eventData => {
 
 $(".third-div").on("click", eventData => {
   $(".third-div").css("opacity", "0");
-  $(".ninth2-div")
-    .css("opacity", "1")
-    .addClass("test-example2");
+  $(".ninth2-div").css("opacity", "1").addClass("test-example2");
 });
 
 $(".ninth2-div").on("click", eventData => {
@@ -117,9 +110,7 @@ $(".ninth2-div").on("click", eventData => {
 
 $(".second-div").on("click", eventData => {
   $(".second-div").css("opacity", "0");
-  $(".twelfth2-div")
-    .css("opacity", "1")
-    .addClass("test-example");
+  $(".twelfth2-div").css("opacity", "1").addClass("test-example");
 });
 
 $(".twelfth2-div").on("click", eventData => {
@@ -134,9 +125,7 @@ $(".tenth-div").on("click", eventData => {
 
 $(".second2-div").on("click", eventData => {
   $(".second2-div").css("opacity", "0");
-  $(".eighth-div")
-    .css("opacity", "1")
-    .addClass("test-example4");
+  $(".eighth-div").css("opacity", "1").addClass("test-example4");
 });
 
 $(".eighth-div").on("click", eventData => {
@@ -156,9 +145,7 @@ $(".fourth-div").on("click", eventData => {
 
 $(".tenth2-div").on("click", eventData => {
   $(".tenth2-div").css("opacity", "0");
-  $(".fifth-div")
-    .css("opacity", "1")
-    .addClass("test-example3");
+  $(".fifth-div").css("opacity", "1").addClass("test-example3");
 });
 
 $(".fifth-div").on("click", eventData => {
@@ -178,7 +165,5 @@ $(".eleventh-div").on("click", eventData => {
 
 $(".fourth2-div").on("click", eventData => {
   $(".fourth2-div").css("opacity", "0");
-  $(".first-div")
-    .css("opacity", "1")
-    .addClass("test-example2");
+  $(".first-div").css("opacity", "1").addClass("test-example2");
 });

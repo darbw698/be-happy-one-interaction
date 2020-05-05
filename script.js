@@ -69,7 +69,7 @@ $(".ninth-div").on('click',(eventData)=>{
 
 $(".third2-div").on('click',(eventData)=>{
   $(".third2-div").css('opacity','0');
- $(".twelfth-div").css('opacity','1').addClass('test-example2');
+ $(".twelfth-div").css('opacity','1')
 })
 
 $(".twelfth-div").on('click',(eventData)=>{
@@ -84,7 +84,7 @@ $(".first2-div").on('click',(eventData)=>{
 
 $(".seventh-div").on('click',(eventData)=>{
   $(".seventh-div").css('opacity','0')
-  $(".eighth2-div").css('opacity','1').addClass('test-example3');
+  $(".eighth2-div").css('opacity','1')
 })
 
 $(".eighth2-div").on('click',(eventData)=>{
@@ -104,7 +104,7 @@ $(".eleventh2-div").on('click',(eventData)=>{
 
 $(".third-div").on('click',(eventData)=>{
   $(".third-div").css('opacity','0')
-  $(".ninth2-div").css('opacity','1').addClass('test-example2');
+  $(".ninth2-div").css('opacity','1')
 })
 
 $(".ninth2-div").on('click',(eventData)=>{
@@ -114,60 +114,10 @@ $(".ninth2-div").on('click',(eventData)=>{
 
 $(".second-div").on('click',(eventData)=>{
   $(".second-div").css('opacity','0')
-  $(".twelfth2-div").css('opacity','1').addClass('test-example');
+  $(".twelfth2-div").css('opacity','1')
 })
 
-$(".twelfth2-div").on('click',(eventData)=>{
-  $(".twelfth2-div").css('opacity','0')
-  $(".tenth-div").css('opacity','1')
-})
-
-$(".tenth-div").on('click',(eventData)=>{
-  $(".tenth-div").css('opacity','0')
-  $(".second2-div").css('opacity','1')
-})
-
-$(".second2-div").on('click',(eventData)=>{
-  $(".second2-div").css('opacity','0')
-  $(".eighth-div").css('opacity','1').addClass('test-example4');
-})
-
-$(".eighth-div").on('click',(eventData)=>{
-  $(".eighth-div").css('opacity','0')
-  $(".sixth2-div").css('opacity','1')
-})
-
-$(".sixth2-div").on('click',(eventData)=>{
-  $(".sixth2-div").css('opacity','0')
-  $(".fourth-div").css('opacity','1')
-})
-
-$(".fourth-div").on('click',(eventData)=>{
-  $(".fourth-div").css('opacity','0')
-  $(".tenth2-div").css('opacity','1')
-})
-
-$(".tenth2-div").on('click',(eventData)=>{
-  $(".tenth2-div").css('opacity','0')
-  $(".fifth-div").css('opacity','1').addClass('test-example3');
-})
-
-$(".fifth-div").on('click',(eventData)=>{
-  $(".fifth-div").css('opacity','0')
-  $(".seventh2-div").css('opacity','1')
-})
-
-$(".seventh2-div").on('click',(eventData)=>{
-  $(".seventh2-div").css('opacity','0')
-  $(".eleventh-div").css('opacity','1')
-})
-
-$(".eleventh-div").on('click',(eventData)=>{
-  $(".eleventh-div").css('opacity','0')
-  $(".fourth2-div").css('opacity','1')
-})
-
-$(".fourth2-div").on('click',(eventData)=>{
-  $(".fourth2-div").css('opacity','0')
-  $(".first-div").css('opacity','1').addClass('test-example2');
+$(".second-div").on('click',(eventData)=>{
+  $(".second-div").css('opacity','0')
+  $(".twelfth2-div").css('opacity','1')
 })

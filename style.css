@@ -1,3 +1,5 @@
+/* CSS files add styling rules to your content */
+
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
@@ -169,26 +171,10 @@ p {
 }
 
 
+
+
 .test-example{
   
   transition:all 3s;
   transform: rotate(90deg);
-}
-
-.test-example2{
-  
-  transition:all 3s;
-  transform: rotate(360deg);
-}
-
-.test-example3{
-  
-  transition:all 3s;
-  transform: rotate(-90deg);
-}
-
-.test-example4{
-  
-  transition:all 3s;
-  transform: rotate(-360deg);
 }

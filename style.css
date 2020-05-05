@@ -30,122 +30,146 @@ p {
 .first-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
   
 }
 
 .second-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .third-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .fourth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .fifth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .sixth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .seventh-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .eighth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .ninth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .tenth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .eleventh-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .twelfth-div {
   color: red;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .first2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .second2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .third2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .fourth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .fifth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .sixth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .seventh2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .eighth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .ninth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .tenth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .eleventh2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 .twelfth2-div {
   color:darkmagenta;
   font-size: 5vw;
+  cursor:pointer;
 }
 
 
@@ -175,7 +199,7 @@ p {
 .test-example{
   
   transition:all 3s;
-  transform: rotate(90deg);
+  transform: rotate(180deg);
 }
 
 .test-example2{
@@ -187,11 +211,23 @@ p {
 .test-example3{
   
   transition:all 3s;
-  transform: rotate(-90deg);
+  transform: rotate(-180deg);
 }
 
 .test-example4{
   
   transition:all 3s;
   transform: rotate(-360deg);
+}
+
+.test-example5{
+  
+  transition:all 3s;
+  font-size: 12vw;
+}
+
+.test-example6{
+  
+  transition:all 3s;
+  font-size: 3vw;
 }

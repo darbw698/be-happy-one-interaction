@@ -49,33 +49,32 @@ $(".twelfth2-div").css("opacity", "0");
 
 $(".first-div").on("click", eventData => {
   $(".first-div").css("opacity", "0");
-  $(".fifth2-div").css("opacity", "1").addClass("test-example").css("12vw");
+  $(".fifth2-div").css("opacity", "1").addClass("test-example").addClass("test-example5");
 });
 
 $(".fifth2-div").on("click", eventData => {
   $(".fifth2-div").css("opacity", "0");
-  $(".ninth-div").css("opacity", "1");
+  $(".ninth-div").css("opacity", "1").addClass("test-example6");
 });
 
 $(".ninth-div").on("click", eventData => {
   $(".ninth-div").css("opacity", "0");
-  $(".third2-div").css("opacity", "1");
+  $(".third2-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".third2-div").on("click", eventData => {
   $(".third2-div").css("opacity", "0");
-  $(".twelfth-div").css("opacity", "1")
-    .addClass("test-example2");
+  $(".twelfth-div").css("opacity", "1").addClass("test-example2");
 });
 
 $(".twelfth-div").on("click", eventData => {
   $(".twelfth-div").css("opacity", "0");
-  $(".first2-div").css("opacity", "1");
+  $(".first2-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".first2-div").on("click", eventData => {
   $(".first2-div").css("opacity", "0");
-  $(".seventh-div").css("opacity", "1");
+  $(".seventh-div").css("opacity", "1").addClass("test-example6");
 });
 
 $(".seventh-div").on("click", eventData => {
@@ -85,7 +84,7 @@ $(".seventh-div").on("click", eventData => {
 
 $(".eighth2-div").on("click", eventData => {
   $(".eighth2-div").css("opacity", "0");
-  $(".sixth-div").css("opacity", "1");
+  $(".sixth-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".sixth-div").on("click", eventData => {
@@ -95,7 +94,7 @@ $(".sixth-div").on("click", eventData => {
 
 $(".eleventh2-div").on("click", eventData => {
   $(".eleventh2-div").css("opacity", "0");
-  $(".third-div").css("opacity", "1");
+  $(".third-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".third-div").on("click", eventData => {
@@ -105,7 +104,7 @@ $(".third-div").on("click", eventData => {
 
 $(".ninth2-div").on("click", eventData => {
   $(".ninth2-div").css("opacity", "0");
-  $(".second-div").css("opacity", "1");
+  $(".second-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".second-div").on("click", eventData => {
@@ -115,12 +114,12 @@ $(".second-div").on("click", eventData => {
 
 $(".twelfth2-div").on("click", eventData => {
   $(".twelfth2-div").css("opacity", "0");
-  $(".tenth-div").css("opacity", "1");
+  $(".tenth-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".tenth-div").on("click", eventData => {
   $(".tenth-div").css("opacity", "0");
-  $(".second2-div").css("opacity", "1");
+  $(".second2-div").css("opacity", "1").addClass("test-example6");
 });
 
 $(".second2-div").on("click", eventData => {
@@ -130,17 +129,17 @@ $(".second2-div").on("click", eventData => {
 
 $(".eighth-div").on("click", eventData => {
   $(".eighth-div").css("opacity", "0");
-  $(".sixth2-div").css("opacity", "1");
+  $(".sixth2-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".sixth2-div").on("click", eventData => {
   $(".sixth2-div").css("opacity", "0");
-  $(".fourth-div").css("opacity", "1");
+  $(".fourth-div").css("opacity", "1").addClass("test-example6");
 });
 
 $(".fourth-div").on("click", eventData => {
   $(".fourth-div").css("opacity", "0");
-  $(".tenth2-div").css("opacity", "1");
+  $(".tenth2-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".tenth2-div").on("click", eventData => {
@@ -150,12 +149,12 @@ $(".tenth2-div").on("click", eventData => {
 
 $(".fifth-div").on("click", eventData => {
   $(".fifth-div").css("opacity", "0");
-  $(".seventh2-div").css("opacity", "1");
+  $(".seventh2-div").css("opacity", "1").addClass("test-example6");
 });
 
 $(".seventh2-div").on("click", eventData => {
   $(".seventh2-div").css("opacity", "0");
-  $(".eleventh-div").css("opacity", "1");
+  $(".eleventh-div").css("opacity", "1").addClass("test-example5");
 });
 
 $(".eleventh-div").on("click", eventData => {

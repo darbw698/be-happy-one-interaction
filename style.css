@@ -28,98 +28,98 @@ p {
 } */
 
 .first-div {
-  color: red;
+  color: #FFDD00;
   font-size: 5vw;
   cursor:pointer;
   
 }
 
 .second-div {
-  color: red;
+  color: #FF006D;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .third-div {
-  color: red;
+  color: #01BEFE;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .fourth-div {
-  color: red;
+  color: #8F00FF;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .fifth-div {
-  color: red;
+  color: #FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .sixth-div {
-  color: red;
+  color: #ADFF02;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .seventh-div {
-  color: red;
+  color: #FFDD00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .eighth-div {
-  color: red;
+  color: #FF006D;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .ninth-div {
-  color: red;
+  color: #01BEFE;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .tenth-div {
-  color: red;
+  color: #8F00FF;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .eleventh-div {
-  color: red;
+  color: #FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .twelfth-div {
-  color: red;
+  color: #ADFF02;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .first2-div {
-  color:darkmagenta;
+  color:#FFDD00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .second2-div {
-  color:darkmagenta;
+  color:#FF006D;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .third2-div {
-  color:darkmagenta;
+  color:#01BEFE;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .fourth2-div {
-  color:darkmagenta;
+  color:#FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }

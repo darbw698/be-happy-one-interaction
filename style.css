@@ -65,109 +65,109 @@ p {
 }
 
 .seventh-div {
-  color: #FFDD00;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.eighth-div {
-  color: #FF006D;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.ninth-div {
-  color: #01BEFE;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.tenth-div {
-  color: #8F00FF;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.eleventh-div {
   color: #FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }
 
-.twelfth-div {
+.eighth-div {
+  color: #8F00FF;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
+.ninth-div {
   color: #ADFF02;
   font-size: 5vw;
   cursor:pointer;
 }
 
+.tenth-div {
+  color: #FF006D;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
+.eleventh-div {
+  color: #FFDD00;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
+.twelfth-div {
+  color: #01BEFE;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
 .first2-div {
-  color:#FFDD00;
+  color:#ADFF02;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .second2-div {
-  color:#FF006D;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.third2-div {
-  color:#01BEFE;
-  font-size: 5vw;
-  cursor:pointer;
-}
-
-.fourth2-div {
   color:#FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }
 
+.third2-div {
+  color:#FF006D;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
+.fourth2-div {
+  color:#01BEFE;
+  font-size: 5vw;
+  cursor:pointer;
+}
+
 .fifth2-div {
-  color:darkmagenta;
+  color:#8F00FF;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .sixth2-div {
-  color:darkmagenta;
+  color:#FFDD00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .seventh2-div {
-  color:darkmagenta;
+  color:#FF006D;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .eighth2-div {
-  color:darkmagenta;
+  color:#FF7D00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .ninth2-div {
-  color:darkmagenta;
+  color:#FFDD00;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .tenth2-div {
-  color:darkmagenta;
+  color:#8F00FF;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .eleventh2-div {
-  color:darkmagenta;
+  color:#01BEFE;
   font-size: 5vw;
   cursor:pointer;
 }
 
 .twelfth2-div {
-  color:darkmagenta;
+  color:#ADFF02;
   font-size: 5vw;
   cursor:pointer;
 }
